@@ -17,7 +17,7 @@ Have a Good Day!
 │ ├─ Python
 │
 ├─📫 <b>Get In Touch</b>
-│ ├─🛄 LinkedIn                - <a href="https://www.linkedin.com/in/brian-aditya-dharmatirta-4a17301aa/">/in/rakhmad-giffari-nurfadhilah</a>
+│ ├─🛄 LinkedIn                - <a href="https://www.linkedin.com/in/brian-aditya-dharmatirta-4a17301aa/">/in/brian aditya dharmatirta</a>
 │ └─🌏 Personal site           - <a href="https://fadhilmail.space/">brian-aditya.netlify.app/</a>
 │ 
 ├─🔥 <b>Check out my pinned repos and see some of my works 😆</b>
