@@ -6,19 +6,19 @@ Have a Good Day!
 ## 📂 Directory
 <pre>
 ├─💼 <b>Experience</b>
-│ ├─🔥 <a href="https://porosfilkom.ub.ac.id">POROS UB</a>               - <b>Developer Division Staff</b>
-│ └─👪 <a href="http://himatekkom.ub.ac.id/">HIMATEKKOM</a>      - Staff of Internal Resource Development
+│ ├─🔥 <a href="">ROBOTIIK FILKOM UB</a>               - <b>Drone Vision Programmer</b>
 │
 ├─🎓 <b>Education & Others</b>
-│ └─🏫 <a href="https://ub.ac.id">Universitas Brawijaya</a>   - <b>COmputer Engineering 2020</b>
+│ └─🏫 <a href="https://ub.ac.id">Universitas Brawijaya</a>   - <b>Computer Engineering 2020</b>
 │
 ├─🌟 <b>Tech Stack</b>
-│ ├─ JavaScript (React, Node)
+│ ├─ JavaScript (React, NextJS, NodeJS)
+| ├─ HTML & CSS
+| ├─ TailwindCSS
 │ ├─ Python
 │
 ├─📫 <b>Get In Touch</b>
-│ ├─🛄 LinkedIn                - <a href="https://www.linkedin.com/in/brian-aditya-dharmatirta-4a17301aa/">/in/brian aditya dharmatirta</a>
-│ └─🌏 Personal site           - <a href="https://fadhilmail.space/">brian-aditya.netlify.app/</a>
+│ ├─🛄 LinkedIn                - <a href="https://www.linkedin.com/in/brian-aditya-dharmatirta/">/in/brian aditya dharmatirta</a>
 │ 
 ├─🔥 <b>Check out my pinned repos and see some of my works 😆</b>
 │ 
@@ -28,10 +28,9 @@ Have a Good Day!
 ## 🌱 Github Values
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Briiad&theme=radical&line_height=40)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Briiad&theme=radical&line_height=20)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
-**kobulwidodo/kobulwidodo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Briiad/Briiad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
