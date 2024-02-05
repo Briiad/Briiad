@@ -1,4 +1,5 @@
-<h1 style="text-align:center;">Hi Folks! I'm Brian</h1>
+<h1 style="text-align:center;">Hi Folks! I'm Brian.</h1>
+---
 [![](https://visitcount.itsvg.in/api?id=Briiad&icon=0&color=0)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
