@@ -1,11 +1,8 @@
-<h1 style="text-align:center;">Hi Folks! I'm Brian.</h1>
----
-[![](https://visitcount.itsvg.in/api?id=Briiad&icon=0&color=0)](https://visitcount.itsvg.in)
+<h1 align="center">Hello Random Human! It's Me Brian.</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kylixeza&label=Profile%20views&color=0e75b6&style=flat" alt="kylixeza" /> </p>
 
 # 💫 About Me:
 I am a computer engineering graduate that loves software engineering. I tend to make full stack applications as my side hobby.
-
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/brayeeen) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/briiiad) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@briiiad) 
@@ -17,4 +14,8 @@ I am a computer engineering graduate that loves software engineering. I tend to 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Briiad&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Briiad&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Briiad&theme=juicyfresh&no-frame=false&no-bg=false&margin-w=4)
+
 ---
+[![](https://visitcount.itsvg.in/api?id=Briiad&icon=2&color=1)](https://visitcount.itsvg.in)
