@@ -1,5 +1,5 @@
 <h1 align="center">Hello Random Human! It's Me Brian.</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kylixeza&label=Profile%20views&color=0e75b6&style=flat" alt="kylixeza" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Briiad&label=Profile%20views&color=0e75b6&style=flat" alt="Briiad" /> </p>
 
 # 💫 About Me:
 I am a computer engineering graduate that loves software engineering. I tend to make full stack applications as my side hobby.
